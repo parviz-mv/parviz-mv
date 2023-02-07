@@ -34,9 +34,9 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parviz-Makhkamov&langs_count=10)](https://github.com/Parviz-Makhkamov/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parviz-Makhkamov&langs_count=10)](https://github.com/Parviz-Makhkamov/github-readme-stats) -->
 
----
+<!-- --- -->
 
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
@@ -180,6 +180,6 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Parviz-Makhkamov&show_icons=true)](https://github.com/Parviz-Makhkamov/github-readme-stats)
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Parviz-Makhkamov&show_icons=true)](https://github.com/Parviz-Makhkamov/github-readme-stats) -->
 
----
+<!-- --- -->
