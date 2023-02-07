@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Your title -->
 
-## Hello, I'm Parviz Makhkamov!
+## I'm Parviz Makhkamov!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
