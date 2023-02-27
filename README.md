@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋.  I'm Parviz Makhkamov</h2>
+<h2 align="left">Hi 👋  I'm Parviz Makhkamov</h2>
 <h4 align="left">JavaScript/TypeScript Full-stack developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parviz-makhkamov&label=Profile%20views&color=0e75b6&style=flat" alt="parviz-makhkamov" /> </p>
