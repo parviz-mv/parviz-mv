@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parviz-makhkamov" alt="parviz-makhkamov" /></a> </p> -->
 
-- 🔭 I’m currently working with technologies such as: **JavaScript, TypeScript, React Native, Golang, Web3, && Libp2p.**
+- 🔭 I’m currently working with technologies such as: **JavaScript, TypeScript, React Native, Node.js, Golang, Web3, && Libp2p.**
 
 - 🌱 I’m currently learning: **Golang, Python.**
 
