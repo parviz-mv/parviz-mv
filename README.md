@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Golang, Python.**
 
-- 👨‍💻 All of my projects are available at [makhkamov.parviz.tj](makhkamov.parviz.tj)
+- 👨‍💻 All of my projects are available here : [projects](https://github.com/Parviz-Makhkamov?tab=repositories)
 
 - 💬 You can ask me any question here if you have any special question to me!
 
