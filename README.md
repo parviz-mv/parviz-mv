@@ -19,10 +19,11 @@
 
 <h4 align="left"> You can reach me also via social media:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/parviz-makhkamov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parviz-makhkamov" height="30" width="40" /></a>
-<a href="https://fb.com/parvizmakhkamow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parvizmakhkamow" height="30" width="40" /></a>
-<a href="https://instagram.com/parviz_makhkamov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parviz_makhkamov_" height="30" width="40" /></a>
-<a href="https://t.me/parviz_makhkamov" target="blank"><img align="center" src="https://raw.githubusercontent.com/Parviz-Makhkamov/master/src/images/icons/Social/instagram.svg" alt="parviz_makhkamov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parviz-makhkamov" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/linked-in-alt.svg" alt="parviz-makhkamov" height="30" width="40" /></a>
+<a href="https://fb.com/parvizmakhkamow" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/facebook.svg" alt="parvizmakhkamow" height="30" width="40" /></a>
+<a href="https://instagram.com/parviz_makhkamov_" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/instagram.svg" alt="parviz_makhkamov_" height="30" width="40" /></a>
+<a href="https://vk.com/parr_7" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/vk.svg" alt="parviz_makhkamov" height="30" width="40" /></a>
+<a href="https://t.me/parviz_makhkamov" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/telegram.svg" alt="parviz_makhkamov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
