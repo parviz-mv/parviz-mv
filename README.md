@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Parviz Makhkamov</h1>
-<h3 align="center">JavaScript/TypeScript Full-stack developer</h3>
+<h2 align="left">Hi 👋.  I'm Parviz Makhkamov</h2>
+<h4 align="left">JavaScript/TypeScript Full-stack developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parviz-makhkamov&label=Profile%20views&color=0e75b6&style=flat" alt="parviz-makhkamov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parviz-makhkamov" alt="parviz-makhkamov" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parviz-makhkamov" alt="parviz-makhkamov" /></a> </p> -->
 
-- 🔭 I’m currently working on **JavaScript, TypeScript, React Native, Libp2p & Golang.**
+- 🔭 I’m currently working with technologies such as: **JavaScript, TypeScript, React Native, Golang, Web3, && Libp2p.**
 
-- 🌱 I’m currently learning **Web3, Golang, Python.**
+- 🌱 I’m currently learning: **Golang, Python.**
 
 - 👨‍💻 All of my projects are available at [makhkamov.parviz.tj](makhkamov.parviz.tj)
 
-- 💬 **You can ask me any question here if you have any special question to me!**
+- 💬 You can ask me any question here if you have any special question to me!
 
 - 📫 How to reach me:  **parvizjon555@gmail.com**
 
 <!-- - ⚡ Fun fact: **I'm very good men!** -->
 
-<h3 align="left"> You can reach me also via social media:</h3>
+<h4 align="left"> You can reach me also via social media:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/parviz-makhkamov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parviz-makhkamov" height="30" width="40" /></a>
 <a href="https://fb.com/parvizmakhkamow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parvizmakhkamow" height="30" width="40" /></a>
