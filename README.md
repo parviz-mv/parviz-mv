@@ -58,7 +58,7 @@
 
 
 <h2>:thought_balloon: Quote of the day</h2>
-<details open>
+<details>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
@@ -73,7 +73,7 @@
 </details>
 
 
-<details>
+<details open>
     <summary>My GitHub stats</summary>
 <!--     <div>
         <a href="https://github.com/parviz-mv">
@@ -116,9 +116,7 @@ See <a href="https://github.com/parviz-mv/my-favorite-repos">here</a> a list of 
         <img alt="visitors counter" src="https://profile-counter.glitch.me/parviz-mv/count.svg">
     </div>
 </details> -->
-<img alt="github contribution snake animation" src="https://github.com/parviz-mv/parviz-mv/blob/output/github-contribution-grid-snake.svg">
 
-<h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/parviz-mv/parviz-mv/issues/new?template=guestbook-entry.md">here</a>!</p>
 <!-- <p>Or ask me anything at <a href="https://github.com/parviz-mv/parviz-mv/discussions/new/choose">Discussions</a>!</p> -->
 
