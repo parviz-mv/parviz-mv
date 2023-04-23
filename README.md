@@ -21,7 +21,7 @@
 
 <h2 align="center">:bulb: Languages & Frameworks I code 👨🏻‍💻 in</h2> 
 <img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="480" height="350"/>
-<h3>✅ Languages & Frameworks I currently using:</h3> 
+<h4>✅ Languages & Frameworks I currently using:</h4> 
 <p>
   <code><img title="HTML 5" alt="html5" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
     <code><img title="CSS 3" alt="css 3" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
@@ -32,7 +32,7 @@
     <code><img title="React-Native" alt="react-native" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 </p>
-<h3>:hourglass: Languages & Frameworks I currently learning:</h3> 
+<h4>:hourglass: Languages & Frameworks I currently learning:</h4> 
 <p>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python1.svg" width="30px" height="35"></a></code>
 <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" width="30px" height="38"></a></code>
@@ -42,7 +42,7 @@
  <code><a href="https://graphql.org/"><img title="GraphQl" alt="graphql"  src="./src/graphql.svg" width="30px" height="38" /></a></code>
 </p>
 
-<h3>:hammer_and_wrench: Things that help me getting my code done</h3>
+<h4>:hammer_and_wrench: Things that help me getting my code done</h4>
 <p>
 <code> <img title="npm" alt="npm" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Git" alt="git" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
@@ -52,7 +52,6 @@
 <code> <img title="Yarn" alt="yarn" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px"height="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </p>
-</br>
 <hr>
 <details>
 <summary> Click here for view cute surprise:3</summary>
