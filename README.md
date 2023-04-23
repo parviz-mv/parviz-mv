@@ -128,5 +128,3 @@ See <a href="https://github.com/parviz-mv/my-favorite-repos">here</a> a list of 
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/footer.png"></div>
-    
-    
