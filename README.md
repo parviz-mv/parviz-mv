@@ -1,9 +1,8 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/header.png"></div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Parviz+Makhkamov;Full-Stack+Developer;Football+Lover+:3" alt="Full-stack Developer, Football Lover "></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Parviz+Makhkamov;Full-Stack+Developer;Football+Lover+:)" alt="Full-stack Developer, Football Lover "></a>
 </div>
-
 <!-- 
 <table align="right">
  <tr><td><a href=""><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
@@ -36,21 +35,23 @@
 <p>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python1.svg" width="30px" height="35"></a></code>
 <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" width="30px" height="38"></a></code>
+<code><a href="https://cplusplus.com/"><img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" /></a></code>
 <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./src/nestjs.png" width="30px" height="35"></a></code>
 <code><a href="https://nextjs.org/"><img title="NextJS" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" /></a></code>
 <!--  <code><a href="https://firebase.google.com/" style={{color:"white"}}><img title="Firebase" alt="firebase" width="30px" src="./src/firebase.svg" height="35" /></a></code> -->
  <code><a href="https://graphql.org/"><img title="GraphQl" alt="graphql"  src="./src/graphql.svg" width="30px" height="38" /></a></code>
+ <code><a href="https://www.swift.org/"><img title="Swift" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="38" /></a></code>
 </p>
 
 <h4>:hammer_and_wrench: Things that help me getting my code done</h4>
 <p>
-<code> <img title="npm" alt="npm" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Git" alt="git" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Chrome" alt="chrome" width="30px"height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px"height="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><a href="https://www.npmjs.com/"><img title="npm" alt="npm" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a></code>
+<code><a href="https://git-scm.com/"><img title="Git" alt="git" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a></code>
+<code><a href="https://www.google.com/intl/ru/chrome/"><img title="Chrome" alt="chrome" width="30px"height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></a></code>
+<code><a href="https://code.visualstudio.com/"><img title="VS Code" alt="visual studio code" width="30px"height="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a></code>
 <!-- <code><img title="MacOS" alt="macOS" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/macOS/macOS-original.svg" /></code> -->
-<code> <img title="Yarn" alt="yarn" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px"height="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><a href="https://www.docker.com/"> <img title="Docker" alt="docker" width="38px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a></code>
+<code><a href="https://github.com/"><img title="GitHub" alt="github" width="30px"height="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a></code>
  </br>
  </br>
 </p>
