@@ -20,7 +20,7 @@
 </p>
 
 <h2 align="center">:bulb: Languages & Frameworks I code 👨🏻‍💻 in</h2> 
-<img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="500" height="350"/>
+<img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="480" height="350"/>
 <h3>✅ Languages & Frameworks I currently using:</h3> 
 <p>
   <code><img title="HTML 5" alt="html5" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -30,7 +30,6 @@
 <!-- <code><img title="Golang" alt="Golang" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" /></code> -->
 <code><img title="ReactJS" alt="react js" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
     <code><img title="React-Native" alt="react-native" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-    
 <code><img title="NodeJS" alt="node js" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 </p>
 <h3>:hourglass: Languages & Frameworks I currently learning:</h3> 
