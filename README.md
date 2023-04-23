@@ -35,12 +35,14 @@
 </p>
 <h3>:hourglass: Languages & Frameworks I currently learning:</h3> 
 <p>
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python.png" height="38"></a></code>
-<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" height="38"></a></code>
-<code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./src/nestjs.png" height="38"></a></code>
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python1.svg" width="30px" height="35"></a></code>
+<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" width="30px" height="38"></a></code>
+<code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./src/nestjs.png" width="30px" height="35"></a></code>
 <code><a href="https://nextjs.org/"><img title="NextJS" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" /></a></code>
- <code><a href="https://graphql.org/"><img title="GraphQl" alt="graphql" width="30px" src="./src/graphql" height="38" /></a></code>
+<!--  <code><a href="https://firebase.google.com/" style={{color:"white"}}><img title="Firebase" alt="firebase" width="30px" src="./src/firebase.svg" height="35" /></a></code> -->
+ <code><a href="https://graphql.org/"><img title="GraphQl" alt="graphql"  src="./src/graphql.svg" width="30px" height="38" /></a></code>
 </p>
+
 <h3>:hammer_and_wrench: Things that help me getting my code done</h3>
 <p>
 <code> <img title="npm" alt="npm" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
