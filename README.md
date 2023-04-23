@@ -10,9 +10,8 @@
  <tr><td><a href=""><img src="./assets/ru_flag.png" alt="Russian flag" width="17px">  Russian</a></td></tr>
 </table>
  -->
- <h2>:busts_in_silhouette: How to reach me</h2>
-
-<p align="left">
+ <h2 align="center">:busts_in_silhouette: How to reach me</h2>
+<p align="center">
 <a href="https://linkedin.com/in/parviz-makhkamov" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/linked-in-alt.svg" alt="parviz-makhkamov" height="30" width="40" /></a>
 <a href="https://fb.com/parvizmakhkamow" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/facebook.svg" alt="parvizmakhkamow" height="30" width="40" /></a>
 <a href="https://instagram.com/parviz_makhkamov_" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/instagram.svg" alt="parviz_makhkamov_" height="30" width="40" /></a>
@@ -20,17 +19,26 @@
 <a href="https://t.me/parviz_makhkamov" target="blank"><img align="center" src="https://github.com/Parviz-Makhkamov/Parviz-Makhkamov/blob/main/src/icons/telegram.svg" alt="parviz_makhkamov" height="30" width="40" /></a>
 </p>
 
-<h2>:bulb: Languages & Frameworks I code in</h2>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<h2 align="center">:bulb: Languages & Frameworks I code 👨🏻‍💻 in</h2> 
+<img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="500" height="350"/>
+<h3>✅ Languages & Frameworks I currently using:</h3> 
+<p>
+    <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+    <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+    <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <!-- <code><img title="Golang" alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" /></code> -->
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-</br></br>
-
-<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+</p>
+<h3>:hourglass: Languages & Frameworks I currently learning:</h3> 
+<p>
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python.png" height="42"></a></code>
+    <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./src/NestJS.png" height="42"></a></code>
+<img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</p>
+<h3>:hammer_and_wrench: Things that help me getting my code done</h3>
+<p>
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Chrome" alt="chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
@@ -38,10 +46,11 @@
 <!-- <code><img title="MacOS" alt="macOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/macOS/macOS-original.svg" /></code> -->
 <code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-</br></br>
-
+</p>
+</br>
+<hr>
 <details>
-<summary>Click here for a cute surprise! :3</summary>
+<summary> Click here for view cute surprise:3</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
