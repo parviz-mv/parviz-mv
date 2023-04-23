@@ -20,7 +20,7 @@
 </p>
 
 <h2 align="center">:bulb: Languages & Frameworks I code 👨🏻‍💻 in</h2> 
-<img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="500" height="340"/>
+<img align="right" alt="GIF" src="https://github.com/parviz-mv/parviz-mv/blob/main/src/coding.gif?raw=true" width="490" height="330"/>
 <h4>✅ Languages & Frameworks I currently using:</h4> 
 <p>
   <code><img title="HTML 5" alt="html5" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
