@@ -43,7 +43,7 @@
  <code><a href="https://www.swift.org/"><img title="Swift" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="38" /></a></code>
 </p>
 
-<h4>:hammer_and_wrench: Things that help me getting my code done</h4>
+<h4>:hammer_and_wrench: Things that help me getting my code done:</h4>
 <p>
 <code><a href="https://www.npmjs.com/"><img title="npm" alt="npm" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a></code>
 <code><a href="https://git-scm.com/"><img title="Git" alt="git" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a></code>
