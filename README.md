@@ -111,9 +111,9 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com/?user=parviz-mv&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parviz-mv&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-    </a>
+    </a> -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=parviz-mv&theme=darkhub&no-frame=true&column=10">
     </a>
