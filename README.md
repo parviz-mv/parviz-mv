@@ -101,13 +101,13 @@
         <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/parviz-mv?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/parviz-mv?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
     </div> -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=parviz-mv&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=parviz-mv&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-    </a>
+    </a> -->
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com/?user=parviz-mv&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
