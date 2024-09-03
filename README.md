@@ -56,11 +56,6 @@
  </br>
 </p>
 <hr>
-<details>
-<summary> Click here for view cute surprise:3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
-
 
 <!-- <h2>:books: My personal portfolio</h2>
 <a href="https://github.com/parivz-mv/portfolio">
