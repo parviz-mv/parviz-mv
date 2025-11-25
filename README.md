@@ -33,9 +33,9 @@
 </p>
 <h4>:hourglass: Languages & Frameworks I currently learning:</h4> 
 <p>
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python1.svg" width="30px" height="35"></a></code>
-<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" width="30px" height="38"></a></code>
-<code><a href="https://cplusplus.com/"><img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" /></a></code>
+<!-- <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./src/python1.svg" width="30px" height="35"></a></code>
+<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./src/django.png" width="30px" height="38"></a></code> -->
+<!-- <code><a href="https://cplusplus.com/"><img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" /></a></code> -->
 <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./src/nestjs.png" width="30px" height="35"></a></code>
 <code><a href="https://nextjs.org/"><img title="NextJS" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" /></a></code>
 <!--  <code><a href="https://firebase.google.com/" style={{color:"white"}}><img title="Firebase" alt="firebase" width="30px" src="./src/firebase.svg" height="35" /></a></code> -->
